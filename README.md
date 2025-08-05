@@ -8,8 +8,8 @@ In order to have a place to put the labs that you work on during the training, y
 
 ```shell
 cd /home/ibmuser/bamoe-skills-academy/bamoe-skills-academy-mylabs
-git checkout -b your-unique-branch-name
-git push --set-upstream origin your-unique-branch-name
+git checkout -b **your-unique-branch-name**
+git push --set-upstream origin **your-unique-branch-name**
 ```
 
 Now, this repository will be the place that you create all your labs for the training.  This is your branch, please do not push to **main**, only to your branch.  
