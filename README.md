@@ -4,7 +4,7 @@
 This repository includes all labs created by the student during the `BAMOE Skills Academy`.
 
 # Setting up for your labs
-In order to have a place to put the labs that you work on during the training, you will need to create your own branch of the repository.  In a terminal window:
+In order to have a place to put the labs that you work on during the training, you will need to create your own branch of the repository.  Be sure to select a unique name, such as your name (no spaces).  In a terminal window:
 
 ```shell
 cd /home/ibmuser/bamoe-skills-academy/bamoe-skills-academy-mylabs
