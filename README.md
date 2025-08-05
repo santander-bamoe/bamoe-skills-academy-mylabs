@@ -35,4 +35,7 @@ Use the supplied [Maven Archetypes](../bamoe-maven/README.md) in order to genera
 </project>
 ```
 
+You can now run Maven commands either in the root folder or each project's folder.  Any command performed at the root folder level will apply to all
+projects.
+
 
